@@ -1,0 +1,294 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4CD377EC0FF2A5AF00540C65 /* MyBusTool */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* MyBusTool */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* MyBusTool */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 4CD377F50FF2A5B400540C65 /* Code sense */;
+		executables = (
+			4CD377EC0FF2A5AF00540C65 /* MyBusTool */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 267560367;
+			PBXWorkspaceStateSaveDate = 267560367;
+		};
+		perUserProjectItems = {
+			4CD378870FF2F13200540C65 /* PBXTextBookmark */ = 4CD378870FF2F13200540C65 /* PBXTextBookmark */;
+			4CD378EB0FF314D000540C65 /* PBXTextBookmark */ = 4CD378EB0FF314D000540C65 /* PBXTextBookmark */;
+			4CD378F10FF314D000540C65 /* PBXTextBookmark */ = 4CD378F10FF314D000540C65 /* PBXTextBookmark */;
+			4CD379100FF3BD6A00540C65 /* PBXBookmark */ = 4CD379100FF3BD6A00540C65 /* PBXBookmark */;
+			4CD379110FF3BD9100540C65 /* PBXBookmark */ = 4CD379110FF3BD9100540C65 /* PBXBookmark */;
+			4CD379490FF3C81B00540C65 /* PBXBookmark */ = 4CD379490FF3C81B00540C65 /* PBXBookmark */;
+			4CD379710FF3D9EF00540C65 /* PBXTextBookmark */ = 4CD379710FF3D9EF00540C65 /* PBXTextBookmark */;
+			4CD37AA30FF4496100540C65 /* PBXTextBookmark */ = 4CD37AA30FF4496100540C65 /* PBXTextBookmark */;
+			4CD37AA50FF4496100540C65 /* PBXTextBookmark */ = 4CD37AA50FF4496100540C65 /* PBXTextBookmark */;
+			4CD37AA60FF4496100540C65 /* PBXTextBookmark */ = 4CD37AA60FF4496100540C65 /* PBXTextBookmark */;
+			4CD37AA70FF4496100540C65 /* PBXTextBookmark */ = 4CD37AA70FF4496100540C65 /* PBXTextBookmark */;
+			4CD37AA80FF4496100540C65 /* PBXTextBookmark */ = 4CD37AA80FF4496100540C65 /* PBXTextBookmark */;
+			4CD37AAA0FF4496100540C65 /* PBXTextBookmark */ = 4CD37AAA0FF4496100540C65 /* PBXTextBookmark */;
+			4CD37AAB0FF4496100540C65 /* PBXTextBookmark */ = 4CD37AAB0FF4496100540C65 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4CD377F40FF2A5B400540C65 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* MyBusTool.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {912, 644}}";
+			sepNavSelRange = "{704, 0}";
+			sepNavVisRange = "{0, 1090}";
+			sepNavWindowFrame = "{{18, 6}, {783, 772}}";
+		};
+	};
+	4CD377EC0FF2A5AF00540C65 /* MyBusTool */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MyBusTool;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	4CD377F40FF2A5B400540C65 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	4CD377F50FF2A5B400540C65 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4CD377F60FF2A5EC00540C65 /* MyBus.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {762, 1677}}";
+			sepNavSelRange = "{2429, 0}";
+			sepNavVisRange = "{108, 1310}";
+			sepNavWindowFrame = "{{504, 0}, {689, 778}}";
+		};
+	};
+	4CD377F70FF2A5EC00540C65 /* MyBus.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {742, 3783}}";
+			sepNavSelRange = "{7164, 0}";
+			sepNavVisRange = "{6567, 1059}";
+			sepNavWindowFrame = "{{495, 6}, {783, 772}}";
+		};
+	};
+	4CD377F90FF2A5EC00540C65 /* WSGeneratedObj.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1050, 2626}}";
+			sepNavSelRange = "{3711, 0}";
+			sepNavVisRange = "{2483, 2149}";
+			sepNavWindowFrame = "{{415, 6}, {783, 772}}";
+		};
+	};
+	4CD378870FF2F13200540C65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* MyBusTool.m */;
+		name = "MyBusTool.m: 19";
+		rLen = 0;
+		rLoc = 1052;
+		rType = 0;
+		vrLen = 688;
+		vrLoc = 0;
+	};
+	4CD378EB0FF314D000540C65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4CD378EC0FF314D000540C65 /* 004.cpp */;
+		rLen = 0;
+		rLoc = 2147483647;
+		rType = 0;
+	};
+	4CD378EC0FF314D000540C65 /* 004.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = 004.cpp;
+		path = "/Users/michael/Old Downloads/Sample Code/GetEstimatesByLocation.msi Folder/004.cpp";
+		sourceTree = "<absolute>";
+	};
+	4CD378F10FF314D000540C65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4CD378F20FF314D000540C65 /* 010.cpp */;
+		rLen = 0;
+		rLoc = 2147483647;
+		rType = 0;
+	};
+	4CD378F20FF314D000540C65 /* 010.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = 010.cpp;
+		path = "/Users/michael/Old Downloads/Sample Code/GetEstimatesByLocation.msi Folder/010.cpp";
+		sourceTree = "<absolute>";
+	};
+	4CD379100FF3BD6A00540C65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4CD377F70FF2A5EC00540C65 /* MyBus.m */;
+	};
+	4CD379110FF3BD9100540C65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4CD377F60FF2A5EC00540C65 /* MyBus.h */;
+	};
+	4CD379490FF3C81B00540C65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4CD377F90FF2A5EC00540C65 /* WSGeneratedObj.m */;
+	};
+	4CD379710FF3D9EF00540C65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4CD379720FF3D9EF00540C65 /* Mybus.wsdl */;
+		rLen = 0;
+		rLoc = 2147483657;
+		rType = 0;
+	};
+	4CD379720FF3D9EF00540C65 /* Mybus.wsdl */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = Mybus.wsdl;
+		path = /Users/michael/Projects/MyBusTool/Mybus.wsdl;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            c =             (\n                                {\n                    r = \"{703, 144}\";\n                    s = 0;\n                }\n            );\n            r = \"{678, 193}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    r = \"{961, 178}\";\n                    s = 0;\n                }\n            );\n            r = \"{936, 227}\";\n            s = 0;\n        },\n                {\n            r = \"{1226, 176}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    r = \"{1484, 682}\";\n                    s = 0;\n                }\n            );\n            r = \"{1462, 725}\";\n            s = 0;\n        },\n                {\n            r = \"{2679, 229}\";\n            s = 0;\n        },\n                {\n            r = \"{2969, 35}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    r = \"{3093, 159}\";\n                    s = 0;\n                }\n            );\n            r = \"{3068, 208}\";\n            s = 0;\n        },\n                {\n            r = \"{3516, 74}\";\n            s = 0;\n        },\n                {\n            r = \"{3656, 82}\";\n            s = 0;\n        },\n                {\n            r = \"{3805, 76}\";\n            s = 0;\n        },\n                {\n            r = \"{3949, 84}\";\n            s = 0;\n        },\n                {\n            r = \"{4097, 73}\";\n            s = 0;\n        },\n                {\n            r = \"{4235, 81}\";\n            s = 0;\n        },\n                {\n            r = \"{4384, 56}\";\n            s = 0;\n        },\n                {\n            r = \"{4509, 70}\";\n            s = 0;\n        },\n                {\n            r = \"{4649, 154}\";\n            s = 0;\n        },\n                {\n            r = \"{4874, 70}\";\n            s = 0;\n        },\n                {\n            r = \"{5066, 54}\";\n            s = 0;\n        },\n                {\n            r = \"{5189, 56}\";\n            s = 0;\n        },\n                {\n            r = \"{5315, 70}\";\n            s = 0;\n        },\n                {\n            r = \"{5456, 154}\";\n            s = 0;\n        },\n                {\n            r = \"{5682, 70}\";\n            s = 0;\n        },\n                {\n            r = \"{5876, 54}\";\n            s = 0;\n        },\n                {\n            r = \"{5987, 979}\";\n            s = 0;\n        },\n                {\n            r = \"{7027, 997}\";\n            s = 0;\n        },\n                {\n            r = \"{8086, 1003}\";\n            s = 0;\n        },\n                {\n            r = \"{9173, 1218}\";\n            s = 0;\n        },\n                {\n            r = \"{11551, 1095}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 13378}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {2868, 1196}}";
+			sepNavSelRange = "{4554, 0}";
+			sepNavVisRange = "{2829, 2214}";
+		};
+	};
+	4CD37AA30FF4496100540C65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4CD37AA40FF4496100540C65 /* Mybus.wsdl */;
+		name = "Mybus.wsdl: 263";
+		rLen = 0;
+		rLoc = 12889;
+		rType = 0;
+		vrLen = 7609;
+		vrLoc = 5769;
+	};
+	4CD37AA40FF4496100540C65 /* Mybus.wsdl */ = {
+		isa = PBXFileReference;
+		name = Mybus.wsdl;
+		path = /Users/michael/Projects/MyBusTool/Mybus.wsdl;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            c =             (\n                                {\n                    r = \"{703, 144}\";\n                    s = 0;\n                }\n            );\n            r = \"{678, 193}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    r = \"{961, 178}\";\n                    s = 0;\n                }\n            );\n            r = \"{936, 227}\";\n            s = 0;\n        },\n                {\n            r = \"{1226, 176}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    r = \"{1484, 682}\";\n                    s = 0;\n                }\n            );\n            r = \"{1462, 725}\";\n            s = 0;\n        },\n                {\n            r = \"{2679, 229}\";\n            s = 0;\n        },\n                {\n            r = \"{2969, 35}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    r = \"{3093, 159}\";\n                    s = 0;\n                }\n            );\n            r = \"{3068, 208}\";\n            s = 0;\n        },\n                {\n            r = \"{3516, 74}\";\n            s = 0;\n        },\n                {\n            r = \"{3656, 82}\";\n            s = 0;\n        },\n                {\n            r = \"{3805, 76}\";\n            s = 0;\n        },\n                {\n            r = \"{3949, 84}\";\n            s = 0;\n        },\n                {\n            r = \"{4097, 73}\";\n            s = 0;\n        },\n                {\n            r = \"{4235, 81}\";\n            s = 0;\n        },\n                {\n            r = \"{4384, 56}\";\n            s = 0;\n        },\n                {\n            r = \"{4509, 70}\";\n            s = 0;\n        },\n                {\n            r = \"{4649, 154}\";\n            s = 0;\n        },\n                {\n            r = \"{4874, 70}\";\n            s = 0;\n        },\n                {\n            r = \"{5066, 54}\";\n            s = 0;\n        },\n                {\n            r = \"{5189, 56}\";\n            s = 0;\n        },\n                {\n            r = \"{5315, 70}\";\n            s = 0;\n        },\n                {\n            r = \"{5456, 154}\";\n            s = 0;\n        },\n                {\n            r = \"{5682, 70}\";\n            s = 0;\n        },\n                {\n            r = \"{5876, 54}\";\n            s = 0;\n        },\n                {\n            r = \"{5987, 979}\";\n            s = 0;\n        },\n                {\n            r = \"{7027, 997}\";\n            s = 0;\n        },\n                {\n            r = \"{8086, 1003}\";\n            s = 0;\n        },\n                {\n            r = \"{9173, 1218}\";\n            s = 0;\n        },\n                {\n            r = \"{11551, 1095}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 13378}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {2868, 1196}}";
+			sepNavSelRange = "{4554, 0}";
+			sepNavVisRange = "{2774, 2269}";
+			sepNavWindowFrame = "{{95, 0}, {785, 778}}";
+		};
+	};
+	4CD37AA50FF4496100540C65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4CD377F60FF2A5EC00540C65 /* MyBus.h */;
+		name = "MyBus.h: 97";
+		rLen = 0;
+		rLoc = 2429;
+		rType = 0;
+		vrLen = 1310;
+		vrLoc = 108;
+	};
+	4CD37AA60FF4496100540C65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4CD377F70FF2A5EC00540C65 /* MyBus.m */;
+		name = "MyBus.m: 9";
+		rLen = 0;
+		rLoc = 168;
+		rType = 0;
+		vrLen = 1559;
+		vrLoc = 7158;
+	};
+	4CD37AA70FF4496100540C65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4CD377F90FF2A5EC00540C65 /* WSGeneratedObj.m */;
+		name = "WSGeneratedObj.m: 152";
+		rLen = 0;
+		rLoc = 3711;
+		rType = 0;
+		vrLen = 2149;
+		vrLoc = 2483;
+	};
+	4CD37AA80FF4496100540C65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4CD37AA90FF4496100540C65 /* 004.cpp */;
+		name = "004.cpp: 24";
+		rLen = 0;
+		rLoc = 832;
+		rType = 0;
+		vrLen = 2524;
+		vrLoc = 0;
+	};
+	4CD37AA90FF4496100540C65 /* 004.cpp */ = {
+		isa = PBXFileReference;
+		name = 004.cpp;
+		path = "/Users/michael/Old Downloads/Sample Code/GetEstimatesByLocation.msi Folder/004.cpp";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2784, 1651}}";
+			sepNavSelRange = "{832, 0}";
+			sepNavVisRange = "{0, 2524}";
+			sepNavWindowFrame = "{{2, 0}, {768, 778}}";
+		};
+	};
+	4CD37AAA0FF4496100540C65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* MyBusTool.m */;
+		name = "MyBusTool.m: 15";
+		rLen = 0;
+		rLoc = 704;
+		rType = 0;
+		vrLen = 1090;
+		vrLoc = 0;
+	};
+	4CD37AAB0FF4496100540C65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4CD37AAC0FF4496100540C65 /* 010.cpp */;
+		name = "010.cpp: 42";
+		rLen = 6;
+		rLoc = 1158;
+		rType = 0;
+		vrLen = 1441;
+		vrLoc = 34;
+	};
+	4CD37AAC0FF4496100540C65 /* 010.cpp */ = {
+		isa = PBXFileReference;
+		name = 010.cpp;
+		path = "/Users/michael/Old Downloads/Sample Code/GetEstimatesByLocation.msi Folder/010.cpp";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1066, 2925}}";
+			sepNavSelRange = "{1158, 6}";
+			sepNavVisRange = "{34, 1441}";
+			sepNavWindowFrame = "{{19, 0}, {1125, 773}}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* MyBusTool */ = {
+		activeExec = 0;
+		executables = (
+			4CD377EC0FF2A5AF00540C65 /* MyBusTool */,
+		);
+	};
+}
